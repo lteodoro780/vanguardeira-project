@@ -7,8 +7,10 @@
 
 ### Linux Deployment
 
-![Armbian Deployment](images/armbian-installation.png)
+<img width="1920" height="1080" alt="xfce png 0bfa2a1130ee457c182c928b0070579e" src="https://github.com/user-attachments/assets/abeb1a24-789e-4bc5-b4e3-2135ab5aa82c" />
+
 
 ### Laboratory Environment
 
-![Lab Environment](images/lab-environment.jpg)
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-10 at 15 45 23" src="https://github.com/user-attachments/assets/836ce2bf-d3eb-4add-8f46-7e66c076ca68" />
+
