@@ -1,4 +1,11 @@
 # vanguardeira-project
+![Linux](https://img.shields.io/badge/Linux-Armbian-red)
+![ARM](https://img.shields.io/badge/Architecture-ARM-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Hardware](https://img.shields.io/badge/Hardware-RK322x-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Focus](https://img.shields.io/badge/Focus-Educational%20Infrastructure-lightgrey)
+![Deployment](https://img.shields.io/badge/Deployment-Low--Cost-important)
 
 Infrastructure and educational technology project developed in partnership with the Escola de Sargentos das Armas (ESA).
 
