@@ -52,11 +52,19 @@ More than 60 TV Box devices were converted into operational Linux systems for ed
 
 ## Repository Structure
 
-```text id="5f3c31"
-docs/          Technical documentation
-images/        Screenshots and hardware images
-hardware/      Device specifications
-scripts/       Automation and configuration scripts
-network/       Network and infrastructure notes
-deployment/    Deployment procedures
+```text
+docs/          Technical documentation (hardware, installation, network, optimization, troubleshooting)
+hardware/      Device specifications (in preparation)
+network/       Network and infrastructure notes (in preparation)
+deployment/    Deployment procedures (in preparation)
+images/        Screenshots and hardware images (in preparation)
 ```
+
+## Documentation
+
+- [Hardware](docs/hardware.md)
+- [Installation](docs/installation.md)
+- [Network](docs/network.md)
+- [Optimization](docs/optimization.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [Roadmap](ROADMAP.md) · [Gallery](Gallery.md) · [Project context](PROJECT_CONTEXT.md)
