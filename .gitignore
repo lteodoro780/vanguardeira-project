@@ -18,3 +18,20 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+
+# Private local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets.json
+
+# Local databases and exports
+*.sqlite3
+*.db
+*.sql
+*.dump
